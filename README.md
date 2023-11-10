@@ -7,7 +7,7 @@
 
 <p align="center">
   <em>
-    <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a  href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
+    <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a style="color:gold" href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
     An aspiring <b>Frontend Software Developer,</b>&nbsp; <br>
     <b><i>"---I'm open, I'm not fixed. I love the Process of my Growth---"</i></b>
   </em>
