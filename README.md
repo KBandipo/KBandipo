@@ -90,7 +90,7 @@
 ---
 
 <summary>
- 📔 GitHub Stats:
+ 📔 GitHub Statistics:
 </summary>
 <br>
 
