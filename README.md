@@ -63,3 +63,9 @@
 
 <br>
 <br>
+
+<details>
+<summary>
+🌱 Tech stack looking forward to learn:
+</summary>
+<br>
