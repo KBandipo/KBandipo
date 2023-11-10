@@ -4,3 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Hey!+Welcome+to+my+Profile;+I+am+a+Frontend+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
+
+<p align="center">
+  <em>
+    <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a  href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
+    An aspiring <b>Frontend Software Developer,</b>&nbsp; <br>
+    <b><i>"---I'm open, I'm not fixed. I love the Process of my Growth---"</i></b>
+  </em>
+</p>
