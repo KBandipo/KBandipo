@@ -10,7 +10,7 @@
   <em>
     <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a style="color:gold" href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
     An aspiring <b>Frontend Software Developer,</b>&nbsp; <br>
-    <b><i>"---I'm open, I'm not fixed. I love my Process of Growth---"</i></b>
+    <b><i>"---I'm open, I'm not fixed. I love the Process of my Growth---"</i></b>
   </em>
 </p>
 
@@ -22,7 +22,7 @@
 - 🔭 I’m currently into Frontend Web Development.
 - 🌱 I’m currently learning React and JavaScript.
 - 🤔 I’m looking for help with an internship with any Tech organization that would add to my growth.
-- 😄 Pronouns: <b>I/Me</b>
+- 😄 Pronouns: <b>We/Ours</b>
 - ⚡ Fun fact: I love music, I play the piano and the guitar, and I teach the Word.
 
 ---
@@ -72,12 +72,11 @@
 <br>
 
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
-
-<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
-<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
-<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
 <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
+<code><a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass"  height="30"></a></code>
+<code><a href="https://nodejs.org/en/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg"></a></code>
+<code><a href="https://www.json.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/json/json-icon.svg"></a></code>
 <code><a href="https://colab.research.google.com/" target="_blank"><img height="30" src="https://colab.research.google.com/img/colab_favicon_256px.png"></a></code>
 <code><a href="https://cloud.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
 <code><a href="https://analytics.google.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/google_analytics/google_analytics-icon.svg"></a></code>
@@ -91,7 +90,7 @@
 ---
 
 <summary>
- 📔 GitHub Statistics:
+ 📔 GitHub Stats:
 </summary>
 <br>
 
