@@ -9,7 +9,7 @@
 <p align="center">
   <em>
     <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a style="color:gold" href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
-    I'm a <b>Frontend Software Developer, and also a Quality Assurance Engineer</b>&nbsp; <br>
+    I'm a <b>Frontend Software Developer</b>, and also a <b>Quality Assurance Engineer</b>&nbsp; <br>
     <b><i>"---I'm open, I'm not fixed. I love my Process of Growth---"</i></b>
   </em>
 </p>
@@ -29,20 +29,20 @@
 
 ## SOCIAL MEDIA PROFILES
 
+<a href="keneebandipo@gmail.com">
+  <img align="left" alt="Bandipo Kehinde | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
 <a href="https://www.linkedin.com/in/bandipo-kehinde-3b0434270/">
   <img align="left" alt=" Bandipo Kehinde | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
 </a>
-<a href="keneebandipo@gmail.com">
-  <img align="left" alt="Bandipo Kehinde | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+<a href="https://github.com/KBandipo">
+  <img align="left" alt="Bandipo Kehinde| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 <a href="https://twitter.com/Bandipokenny">
   <img align="left" alt="Bandipo Kehinde| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
 </a>
 <a href="https://web.facebook.com/bandipo.kehinde">
   <img align="left" alt="Bandipo Kehinde| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-</a>
-<a href="https://github.com/KBandipo">
-  <img align="left" alt="Bandipo Kehinde| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
 </a>
 
 <br>
