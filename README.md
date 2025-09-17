@@ -21,7 +21,7 @@
 - 🧞 I'm a Tech Enthusiast.
 - 🔭 I’m currently into Quality Assurance and Frontend Web Development.
 - 🌱 I use JavaScript, React, and Typescript.
-- 🤔 I’m looking for help with an internship with any Tech organization that would add to my growth.
+- 🤔 I’m open to an internship with any Tech organization that would add to my growth.
 - 😄 Pronouns: <b>I/Me</b>
 - ⚡ Fun fact: I love music, I play the piano and the guitar, and I teach the Word.
 
