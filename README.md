@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Hey!+Welcome+to+my+Profile;+I+am+a+Frontend+Software+Developer;+And+I'm+into+Quality+Assurance" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Hey!+Welcome+to+my+Profile;+I'm+into+Quality+Assurance;+And+I+am+a+Frontend+Software+Developer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -19,8 +19,8 @@
 ### Little facts about me 🧑
 
 - 🧞 I'm a Tech Enthusiast.
-- 🔭 I’m currently into Frontend Web Development.
-- 🌱 I’m currently learning React and JavaScript.
+- 🔭 I’m currently into Quality Assurance and Frontend Web Development.
+- 🌱 I use JavaScript, React, and Typescript.
 - 🤔 I’m looking for help with an internship with any Tech organization that would add to my growth.
 - 😄 Pronouns: <b>I/Me</b>
 - ⚡ Fun fact: I love music, I play the piano and the guitar, and I teach the Word.
